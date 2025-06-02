@@ -1,0 +1,13 @@
+../Core/Src/main.c:91:13:EnableGameButtonInterrupts	8	static
+../Core/Src/main.c:100:13:DisableGameButtonInterrupts	8	static
+../Core/Src/main.c:106:13:EnableStartButtonInterrupt	8	static
+../Core/Src/main.c:112:13:DisableStartButtonInterrupt	8	static
+../Core/Src/main.c:117:13:PrepareForNextInput	8	static
+../Core/Src/main.c:126:13:BuzzerBeep	24	static
+../Core/Src/main.c:137:13:DisplaySequence	24	static
+../Core/Src/main.c:167:5:main	48	static
+../Core/Src/main.c:351:6:SystemClock_Config	136	static
+../Core/Src/main.c:400:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:435:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:502:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:603:6:Error_Handler	8	static,ignoring_inline_asm
